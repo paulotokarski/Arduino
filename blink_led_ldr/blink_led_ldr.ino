@@ -18,5 +18,4 @@ void loop() {
     digitalWrite(LED, LOW);
 
   Serial.println(light);
-  
 }
