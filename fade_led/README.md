@@ -1,5 +1,5 @@
 #### Descrição
-Efeito de Fade (acender/apagar lentamente) o Led.
+Efeito de Fade (acender/apagar lentamente) com Led.
 
 #### Componentes
 
@@ -8,4 +8,4 @@ Efeito de Fade (acender/apagar lentamente) o Led.
  - 1x Resistor;
  - 2x Jumpers;
 
-- ##### Código fonte: fade_led.ino
+##### Código fonte: fade_led.ino
