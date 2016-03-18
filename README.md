@@ -1,2 +1,2 @@
 ## projetosArduino
-Projetos utilizando o Arduino
+Projetos utilizando o Arduino.
