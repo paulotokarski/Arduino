@@ -14,5 +14,5 @@ O Led é apenas ligado quando a luminosidade do ambiente está abaixo do padrão
  
 <h4>Demonstração: </h4>
 <p>
- <img src="https://github.com/paulotokarski/projetosArduino/blob/master/blink_led_ldr/blink_led_ldr.png" height="320px" width="auto">
+ <img src="https://github.com/paulotokarski/projetosArduino/blob/master/blink_led_ldr/blink_led_ldr.png" height="320px" width="auto" alt="imagem">
 </p>
