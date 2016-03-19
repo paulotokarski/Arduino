@@ -1,4 +1,4 @@
-<h4>Definição: </h4>
+<h4>Descrição: </h4>
 
 Controle a luminosidade do seu Led com um sensor analógico.
 
