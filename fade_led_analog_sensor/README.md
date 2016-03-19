@@ -1,8 +1,8 @@
-#### Definição
+<h4>Definição: <h4>
 
 Controle a luminosidade do seu Led com um sensor analógico.
 
-#### Componentes
+<h4>Componentes: </h4>
 
  - 1x Arduino Uno;
  - 1x Led;
