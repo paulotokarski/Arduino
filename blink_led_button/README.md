@@ -3,6 +3,7 @@ Ao clicar no botão o Led é aceso, como em um interruptor.
 
 <h4>Componentes: </h4>
  - 1x Arduino Uno;
+ - 1x Botão (2 pinos no projeto!);
  - 1x Led;
  - 1x Protoboard;
  - 2x Jumpers;
