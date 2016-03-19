@@ -11,6 +11,10 @@ Controle a luminosidade do seu Led com um sensor analógico.
  - 1x Potenciometro 5 Kb;
  - 5x Jumpers;
  
-<h3>Demonstração (Fritzing)</h3>
+<h4>Demonstração (Fritzing)</h4>
+
+<p>
+ <img src="https://github.com/paulotokarski/projetosArduino/blob/master/fade_led_analog_sensor/fade_led_analog_sensor_bb.png">
+</p>
  
 ##### Código fonte: fade_led_analog_sensor.ino
