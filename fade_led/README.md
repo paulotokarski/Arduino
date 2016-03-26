@@ -8,7 +8,7 @@ Efeito de Fade (acender/apagar lentamente) com Led.
  - 1x Resistor;
  - 1x Protoboard;
  - 2x Jumpers;
- - <h4>Código fonte: <a href="https://github.com/paulotokarski/projetosArduino/blob/master/fade_led/fade_led.ino">fade_led.ino</a>.</h4>
+ - Código fonte: <a href="https://github.com/paulotokarski/projetosArduino/blob/master/fade_led/fade_led.ino">fade_led.ino</a>.
  
 <h4>Demonstração:</h4>
 <p>
