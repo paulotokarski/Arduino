@@ -8,7 +8,7 @@ O Led é apenas ligado quando a luminosidade do ambiente está abaixo do padrão
  - 1x Protoboard;
  - 1x Led;
  - 1x Sensor de luminosidade (PhotoCell);  
- - 2x Resistores (Utilize os de sua preferência);
+ - 2x Resistores;
  - 5x Jumpers;
  - <b>Código fonte:</b> <a href="https://github.com/paulotokarski/projetosArduino/blob/master/blink_led_ldr/blink_led_ldr.ino">blink_led_ldr.ino</a>
  
