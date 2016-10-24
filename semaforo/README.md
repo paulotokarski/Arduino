@@ -7,9 +7,9 @@ Projeto realizado no minicurso de Introdução ao Arduíno. O projeto consiste e
  - 1x Arduino Uno;
  - 1x Protoboard;
  - 3x Leds;
- - 3x Resistor;
+ - 3x Resistores;
  - Jumpers;
- - <b>Código fonte:</b> <a href="https://github.com/paulotokarski/projetosArduino/blob/master/semaforo/semaforo.ino">semafaro.ino</a>
+ - <b>Código fonte:</b> <a href="https://github.com/paulotokarski/projetosArduino/blob/master/semaforo/semaforo.ino" target="_blank">semafaro.ino</a>
 
 <h4>Demonstração: </h4>
 <p>
